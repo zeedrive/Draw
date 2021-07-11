@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-11T22:35:04.062Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="dMADO-KzHGeQozpGxr1F" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-11T23:20:28.598Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="5HNtShB11GZR9OXP6eon" version="14.8.3" type="github">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
-    <mxGraphModel dx="4740" dy="2490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -355,38 +355,19 @@
         <mxCell id="KwFcviHTMIXIFhAUZAPu-243" value="Sign BT order agreement" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;" vertex="1" parent="KwFcviHTMIXIFhAUZAPu-239">
           <mxGeometry x="1010" y="79" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KwFcviHTMIXIFhAUZAPu-244" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classicThin;endFill=0;" edge="1" parent="KwFcviHTMIXIFhAUZAPu-239" source="KwFcviHTMIXIFhAUZAPu-245" target="KwFcviHTMIXIFhAUZAPu-248">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="KwFcviHTMIXIFhAUZAPu-244" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classicThin;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="KwFcviHTMIXIFhAUZAPu-239" source="KwFcviHTMIXIFhAUZAPu-245" target="KwFcviHTMIXIFhAUZAPu-250">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1870" y="119" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="KwFcviHTMIXIFhAUZAPu-245" value="Business trip" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=boundInt;symbol=timer;" vertex="1" parent="KwFcviHTMIXIFhAUZAPu-239">
           <mxGeometry x="1735" y="94" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="KwFcviHTMIXIFhAUZAPu-246" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classicThin;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="KwFcviHTMIXIFhAUZAPu-239" source="KwFcviHTMIXIFhAUZAPu-248" target="KwFcviHTMIXIFhAUZAPu-250">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KwFcviHTMIXIFhAUZAPu-247" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classicThin;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="KwFcviHTMIXIFhAUZAPu-239" source="KwFcviHTMIXIFhAUZAPu-248" target="KwFcviHTMIXIFhAUZAPu-252">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KwFcviHTMIXIFhAUZAPu-248" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=parallel;" vertex="1" parent="KwFcviHTMIXIFhAUZAPu-239">
-          <mxGeometry x="1870" y="94" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="KwFcviHTMIXIFhAUZAPu-249" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classicThin;endFill=0;" edge="1" parent="KwFcviHTMIXIFhAUZAPu-239" source="KwFcviHTMIXIFhAUZAPu-250" target="KwFcviHTMIXIFhAUZAPu-253">
+        <mxCell id="KwFcviHTMIXIFhAUZAPu-275" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;startArrow=oval;startFill=0;endArrow=classicThin;endFill=0;" edge="1" parent="KwFcviHTMIXIFhAUZAPu-239" source="KwFcviHTMIXIFhAUZAPu-250" target="KwFcviHTMIXIFhAUZAPu-271">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KwFcviHTMIXIFhAUZAPu-250" value="Fulfill financial report" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;" vertex="1" parent="KwFcviHTMIXIFhAUZAPu-239">
-          <mxGeometry x="1920" y="170" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KwFcviHTMIXIFhAUZAPu-251" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classicThin;endFill=0;" edge="1" parent="KwFcviHTMIXIFhAUZAPu-239" source="KwFcviHTMIXIFhAUZAPu-252" target="KwFcviHTMIXIFhAUZAPu-253">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KwFcviHTMIXIFhAUZAPu-252" value="Fulfill BT report" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;" vertex="1" parent="KwFcviHTMIXIFhAUZAPu-239">
-          <mxGeometry x="1920" y="50" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KwFcviHTMIXIFhAUZAPu-272" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classicThin;endFill=0;" edge="1" parent="KwFcviHTMIXIFhAUZAPu-239" source="KwFcviHTMIXIFhAUZAPu-253" target="KwFcviHTMIXIFhAUZAPu-271">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KwFcviHTMIXIFhAUZAPu-253" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=parallel;" vertex="1" parent="KwFcviHTMIXIFhAUZAPu-239">
-          <mxGeometry x="2090" y="95" width="50" height="50" as="geometry" />
+          <mxGeometry x="1950" y="92" width="120" height="54" as="geometry" />
         </mxCell>
         <mxCell id="KwFcviHTMIXIFhAUZAPu-270" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classicThin;endFill=0;" edge="1" parent="KwFcviHTMIXIFhAUZAPu-239" source="KwFcviHTMIXIFhAUZAPu-255" target="KwFcviHTMIXIFhAUZAPu-245">
           <mxGeometry relative="1" as="geometry" />
@@ -409,7 +390,7 @@
           <mxGeometry x="390" y="95" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KwFcviHTMIXIFhAUZAPu-271" value="Reports sent" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=message;" vertex="1" parent="KwFcviHTMIXIFhAUZAPu-239">
-          <mxGeometry x="2230" y="95" width="50" height="50" as="geometry" />
+          <mxGeometry x="2230" y="93" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KwFcviHTMIXIFhAUZAPu-193" value="HR Department" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="KwFcviHTMIXIFhAUZAPu-190">
           <mxGeometry y="480" width="2940" height="320" as="geometry" />
